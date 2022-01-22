@@ -10,7 +10,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>KPass: The Best Free Password Manager</title>
+				<title>Readable: Your Reading Partner</title>
 			</Head>
 			<NavBar />
 			<MainSection />
