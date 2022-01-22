@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from better_profanity import profanity
 from collections import Counter
 
-app = Flask("chat_bot")
+app = Flask("Readable")
 CORS(app)
 
 
