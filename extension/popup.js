@@ -12,21 +12,17 @@ sendData.addEventListener("click", async () => {
 // current page
 function writeToDatabase() {
   (async () => {
-    const rawResponse = await fetch(
-      "https://browser-extension-266d1-default-rtdb.asia-southeast1.firebasedatabase.app/data.json",
-      {
-        method: "POST",
-        mode: "cors",
-        headers: {
-          Accept: "application/json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          bodyData: String(document.body.innerHTML),
-          b: "Textual content",
-        }),
-      }
-    );
+    const rawResponse = await fetch("http://127.0.0.1:9696/api/sentiment", {
+      method: "POST",
+      mode: "cors",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        webData: String(document.body.innerHTML),
+      }),
+    });
     const content = await rawResponse.json();
 
     console.log(content);
