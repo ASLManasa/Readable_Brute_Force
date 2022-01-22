@@ -15,6 +15,7 @@
 </div>
 
 ## About The Project
+
 You probably have visited sites before containing bad words, which might have caught you off guard. Suddenly stumbling upon these sites aren't exactly a good experience. We've made it easy for you to surf the web safely. Install our extension by visiting our site.
 
 ### Built With
@@ -28,7 +29,7 @@ You probably have visited sites before containing bad words, which might have ca
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps. Follow the instructions on our [`page`](https://safe-readable.vercel.app/#instructions) to install the extension.
+Follow the instructions on our [`page`](https://safe-readable.vercel.app/#instructions) to install the extension. To get a local copy up and running follow these simple example steps. 
 
 ## Installation Instructions
 
