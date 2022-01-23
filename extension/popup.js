@@ -2,6 +2,7 @@ let sendData = document.getElementById("sendData");
 
 sendData.addEventListener("click", async () => {
   let [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+
   chrome.scripting.executeScript({
     target: { tabId: tab.id },
     function: writeToDatabase,
@@ -28,6 +29,14 @@ function writeToDatabase() {
     );
     const content = await rawResponse.json();
 
-    console.log(content);
+    console.log("Inside the function", content);
+    alert(
+      `Bad Sentence: ${Number(
+        (content.badSentenceCount * 100) /
+          (content.badSentenceCount + content.goodSentenceCount)
+      ).toFixed(2)}%`
+    );
   })();
+
+  return content;
 }
