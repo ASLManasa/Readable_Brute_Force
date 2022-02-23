@@ -17,6 +17,7 @@
 ## About The Project
 
 You probably have visited sites before containing bad words, which might have caught you off guard. Suddenly stumbling upon these sites aren't exactly a good experience. We've made it easy for you to surf the web safely. Install our extension by visiting our site.
+overview: [presentation](https://docs.google.com/presentation/d/1PeL0wF5oXjB9fPtbQx9tK8Hi0WXGCoKE5ns4LptANcQ/edit?usp=sharing)
 
 ### Built With
 
@@ -35,10 +36,12 @@ I was able to create our proper working extension extension along with the websi
 I got more experience in **Nextjs and web scrapping** by building this application.  Got to learn about different web scrapping techniques systems and how everything interacts in the web application during auth. I also wished to integrate this in the google playstore so that it be available to a wider audience.
 
 ## What's next for Instagram Post-Sharing-Web-App🎉
--To blur vulgar Images
--To ADD Age Constraints
--To Deploy it in Cloud
--ADD our extension on Chrome web store
+- To blur vulgar Images <br>
+- To ADD Age Constraints <br>
+- To Deploy it in Cloud  <br>
+- ADD our extension on Chrome web store  <br>
+
+
 
 <!-- GETTING STARTED -->
 
@@ -120,6 +123,15 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <!-- LICENSE -->
+
+## Project Gallery📷
+
+![1](https://user-images.githubusercontent.com/72789934/155318464-6a178f44-24d0-46e4-b703-bc6b7f6c58e8.png)
+![2](https://user-images.githubusercontent.com/72789934/155318472-0af65bab-ca86-46b0-acd1-989bf4bdd388.png)
+![4](https://user-images.githubusercontent.com/72789934/155318475-cb442437-c98c-476d-997f-661bd1585d3b.png)
+![3](https://user-images.githubusercontent.com/72789934/155318479-a2675687-d815-41ae-b3be-8ecc3e35b903.png)
+
+
 
 ## License
 
