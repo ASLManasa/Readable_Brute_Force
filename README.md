@@ -25,6 +25,21 @@ You probably have visited sites before containing bad words, which might have ca
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [ChakraUI](https://chakra-ui.com/)
 
+## Challenges We ran into🔴
+ The biggest challenge we encountered was training the ml model since the model's accuracy was insufficient, thus we used a python tool to solve the problem. The second difficulty was that we couldn't update the DOM components to show the readability in the extension; as a result, we used an alert box instead.
+ 
+ ## Accomplishments that I'm proud of🎖
+I was able to create our proper working extension extension along with the website(that had the extension). I learned more about webscrapping that I was new to. At last how to deploy a web application to vercel.
+
+## What I learned📚
+I got more experience in **Nextjs and web scrapping** by building this application.  Got to learn about different web scrapping techniques systems and how everything interacts in the web application during auth. I also wished to integrate this in the google playstore so that it be available to a wider audience.
+
+## What's next for Instagram Post-Sharing-Web-App🎉
+-To blur vulgar Images
+-To ADD Age Constraints
+-To Deploy it in Cloud
+-ADD our extension on Chrome web store
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
