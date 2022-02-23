@@ -15,9 +15,9 @@
 </div>
 
 ## About The Project
+overview: [presentation](https://docs.google.com/presentation/d/1PeL0wF5oXjB9fPtbQx9tK8Hi0WXGCoKE5ns4LptANcQ/edit?usp=sharing) <br>
+You probably have visited sites before containing bad words, which might have caught you off guard. Suddenly stumbling upon these sites aren't exactly a good experience. We've made it easy for you to surf the web safely. Install our extension by visiting our site. <br>
 
-You probably have visited sites before containing bad words, which might have caught you off guard. Suddenly stumbling upon these sites aren't exactly a good experience. We've made it easy for you to surf the web safely. Install our extension by visiting our site.
-overview: [presentation](https://docs.google.com/presentation/d/1PeL0wF5oXjB9fPtbQx9tK8Hi0WXGCoKE5ns4LptANcQ/edit?usp=sharing)
 
 ### Built With
 
