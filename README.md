@@ -35,7 +35,7 @@ I was able to create our proper working extension extension along with the websi
 ## What I learned📚
 I got more experience in **Nextjs and web scrapping** by building this application.  Got to learn about different web scrapping techniques systems and how everything interacts in the web application during auth. I also wished to integrate this in the google playstore so that it be available to a wider audience.
 
-## What's next for Instagram Post-Sharing-Web-App🎉
+## What's next for Read_Brute_Force🎉
 - To blur vulgar Images <br>
 - To ADD Age Constraints <br>
 - To Deploy it in Cloud  <br>
